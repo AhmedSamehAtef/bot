@@ -20,7 +20,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing ************* "];
+const statusMessages = ["Playing ♛KRYPTON-ONLINE♛"];
 
 
 let currentIndex = 0;
